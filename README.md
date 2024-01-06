@@ -13,3 +13,10 @@ Peliculas
 1. asu mare 
 2. la vida es una 
 3. combate en altamar 
+-----------------------------
+## Musica Preferida 
+asasasas
+1. asas_*selec.From
+2. sa_ selec (from)
+
+
