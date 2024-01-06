@@ -9,3 +9,7 @@ Prueba de un curso para negocios
 ------------------------------
 
 Peliculas 
+## Peliculas peruanas
+1. asu mare 
+2. la vida es una 
+3. combate en altamar 
